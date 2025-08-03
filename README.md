@@ -26,7 +26,7 @@ brain_tumor_segmentation_project/
 │   └── 6_metadata_integration.ipynb
 └── README.md
 ```
-
+Note: the project structure is subjected to future modification
 
 ## Dataset
 
@@ -34,7 +34,6 @@ brain_tumor_segmentation_project/
 - ~110 patient scans in `.tif` format with tumor masks
 
 ---
-Note: the project structure is subjected to future modification
 
 
 ## Installation
