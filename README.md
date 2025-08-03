@@ -1,6 +1,6 @@
 # Interpretable Brain Tumor Segmentation using U-Net and Attention
 
-This project explores interpretable brain tumor segmentation using U-Net architectures, Grad-CAM visualization, and metadata-driven extensions. Built on the LGG MRI dataset, it aims to support surgical data science with explainable, robust tools.
+This project explores interpretable brain tumor segmentation using U-Net architectures, Grad-CAM visualization, and metadata-driven extensions. Built on the LGG MRI dataset, it aims to support surgical data science with interpretable tools.
 
 ---
 
